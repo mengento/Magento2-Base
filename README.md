@@ -3,6 +3,11 @@ Semaio_Base
 
 This module adds some base information to the Magento backend.
 
+Facts
+-----
+
+* Version: 1.0.0
+
 Functionality
 -------------
 
